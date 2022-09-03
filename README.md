@@ -1,5 +1,10 @@
 # portfolio-java
-Portfólio de Projetos (senac)
+
+Primeiro Projeto programação e linguagem Java.
+
+Curso técnico em informática (Senac Tatuapé).
+
+Professor: José Assis.
 
 
 # Autor

@@ -35,3 +35,8 @@ Alessandro da Silva Ribeiro
 
 
 . Sobre
+
+
+# Instalação
+
+Necessário Java 17 ou Superior

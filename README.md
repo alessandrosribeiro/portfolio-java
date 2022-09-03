@@ -12,15 +12,26 @@ Alessandro da Silva Ribeiro
 
 # Aplicativos
 . Calculo da Media
+
 . Conversor de Temperatura
+
 . Jogo do Jokenpo
+
 . Calculo Desconto
+
 . Calculo Hora de Serviço
+
 . Preferencia Gasolina ou Etanol
+
 . Cartas Aleatórias
+
 . Buscar CEP
+
 . Tabuada
+
 . Calculo IMC
+
 . Calculadora
+
 
 . Sobre
